@@ -1,0 +1,57 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-image: url("viking.png");
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: center;
+  background-color: #f5f5f5;
+  color: black;
+}
+
+header {
+  top: 0px;
+  height:60px;
+  margin: 0 auto;
+  overflow: hidden;
+  padding-left: 80px;
+  padding-right: 80px;
+  color: #F6DC3A;
+  text-shadow: 1px 1px #772727;
+  text-align: center;
+  background: #9B1313;
+  font-weight: 500;
+  font-size: 200%;
+}
+nav{
+  background:#F6DC3A;
+  height:30px;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 500px;
+}
+li{
+  float:left;
+  display:inline;
+}
+
+a{
+  border:groove;
+  border-color:#9B1313;
+  border-width:2px;
+  height:18px;
+  display:block;
+  float:left;
+  width:60px;
+  padding:4px;
+  padding-left:10px;
+  background-color:#F6DC3A;
+  text-decoration:none;
+  color:black;
+}
+
