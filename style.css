@@ -5,7 +5,7 @@ html, body {
 body{
   background-image: url("viking.png");
   background-repeat: no-repeat;
-  background-size: 50%;
+  background-size: 40%;
   background-position: center;
   background-color: #f5f5f5;
   color: black;
@@ -13,7 +13,7 @@ body{
 
 header {
   top: 0px;
-  height:60px;
+  height:46px;
   margin: 0 auto;
   overflow: hidden;
   padding-left: 80px;
@@ -23,7 +23,8 @@ header {
   text-align: center;
   background: #9B1313;
   font-weight: 500;
-  font-size: 200%;
+  font-size: 300%;
+  padding-bottom: 10px;
 }
 nav{
   background:#F6DC3A;
